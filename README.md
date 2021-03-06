@@ -1,12 +1,15 @@
 # Bear Watcher
-<img src="images/Bear_Watcher_form.JPG" width="100">
-<img src="images/Bear_Watcher_River.JPG" width="100">
+images/Bear_Watcher_form.JPG
+images/Bear_Watcher_River.JPG
 
 Bear Watcher Loom video
-[GitHub](https://juan-davila-bear-watcher.netlify.app/)
+[Bear Watcher Loom video](https://www.loom.com/share/a43000e5b9a844aeb5d6c5a431055172)
+
+Bear Watcher Loom video
+[Bear Watcher Netlify](https://juan-davila-bear-watcher.netlify.app/)
 
 Bear Watcher GitHub link
-[GitHub](https://github.com/JuanDavila1101/ASSIGNMENT-Bear-Watcher)
+[Bear Watcher GitHub](https://github.com/JuanDavila1101/ASSIGNMENT-Bear-Watcher)
 
  ## Introduction
 Each year between July and September brown bears in the Katmai National Park congregate along the Brooks River.  This river is one of the main rivers that Sockeye Salmon swim up to spawn.  The brown bears wait in the shallows of the river and catch the salmon as they jump over rocks.  Want to see it in [ACTION](https://explore.org/livecams/brown-bears/brown-bear-salmon-cam-brooks-falls)?
